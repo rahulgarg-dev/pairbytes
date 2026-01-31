@@ -9,7 +9,6 @@ body {
   background: #f4f4f4;
 }
 
-/* Navbar */
 .navbar {
   background: #2563eb;
   color: white;
@@ -19,7 +18,6 @@ body {
   align-items: center;
 }
 
-/* Filters */
 .filters {
   padding: 15px 20px;
   display: flex;
@@ -27,14 +25,12 @@ body {
   flex-wrap: wrap;
 }
 
-/* ===== MAIN LAYOUT ===== */
 .main-layout {
   display: flex;
   gap: 20px;
   padding: 20px;
 }
 
-/* Products */
 .products {
   flex: 3;
   display: grid;
@@ -42,7 +38,6 @@ body {
   gap: 20px;
 }
 
-/* Card */
 .card {
   background: white;
   padding: 15px;
@@ -71,7 +66,6 @@ body {
   margin-bottom: 8px;
 }
 
-/* View details link */
 .details-link {
   font-size: 13px;
   color: #2563eb;
@@ -79,7 +73,6 @@ body {
   text-decoration: none;
 }
 
-/* Buttons */
 button {
   padding: 6px 12px;
   background: #2563eb;
@@ -94,7 +87,6 @@ button:hover {
   background: #1e40af;
 }
 
-/* Quantity controls */
 .qty-controls {
   display: flex;
   align-items: center;
